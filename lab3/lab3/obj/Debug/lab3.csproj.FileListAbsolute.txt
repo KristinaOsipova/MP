@@ -1,0 +1,6 @@
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\bin\Debug\lab3.exe.config
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\bin\Debug\lab3.exe
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\bin\Debug\lab3.pdb
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\obj\Debug\lab3.exe
+E:\Учеба\6 семестр\МП\Лабы\lab3\lab3\obj\Debug\lab3.pdb
