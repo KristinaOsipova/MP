@@ -1,0 +1,8 @@
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Учеба\6 семестр\МП\Лабы\Новая папка\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
