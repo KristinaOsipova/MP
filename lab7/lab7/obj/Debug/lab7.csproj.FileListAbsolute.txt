@@ -1,0 +1,5 @@
+E:\Учеба\6 семестр\МП\Лабы\lab7\lab7\bin\Debug\lab7.exe.config
+E:\Учеба\6 семестр\МП\Лабы\lab7\lab7\bin\Debug\lab7.exe
+E:\Учеба\6 семестр\МП\Лабы\lab7\lab7\bin\Debug\lab7.pdb
+E:\Учеба\6 семестр\МП\Лабы\lab7\lab7\obj\Debug\lab7.exe
+E:\Учеба\6 семестр\МП\Лабы\lab7\lab7\obj\Debug\lab7.pdb
