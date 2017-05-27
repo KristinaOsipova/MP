@@ -1,0 +1,12 @@
+H:\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Учеба\6 семестр\МП\Лабы\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
